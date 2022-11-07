@@ -20,9 +20,7 @@ namespace Breaking_Down_Equations
             // 34 + 22 / 33 * 45 - 18 * 199
 
             Console.ReadKey();
-        }
-
-        
+        }        
 
         public static void Eqution_HandWritten()
         {
